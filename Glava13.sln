@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.3", "13.3\13.3.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.2", "13.2\13.2.csproj", "{5DD7B021-CAE1-47F5-B841-7E58AB8A4896}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.4", "..\13.4\13.4\13.4.csproj", "{F65CB08B-CB70-4732-A93F-56563B55C337}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.4", "13.4\13.4.csproj", "{F65CB08B-CB70-4732-A93F-56563B55C337}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
